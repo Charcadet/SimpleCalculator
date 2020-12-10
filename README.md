@@ -1,4 +1,4 @@
-# LoLAccManager
+# SimpleCalculator
 
 ![This is the README's header image :)](https://i.imgur.com/EnkubWh.png)
 
