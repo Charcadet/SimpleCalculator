@@ -1,0 +1,15 @@
+D:\Documents\source\repos\SimpleCalculator\SimpleCalculator\bin\Release\SimpleCalculator.exe.config
+D:\Documents\source\repos\SimpleCalculator\SimpleCalculator\bin\Release\SimpleCalculator.exe
+D:\Documents\source\repos\SimpleCalculator\SimpleCalculator\bin\Release\SimpleCalculator.pdb
+D:\Documents\source\repos\SimpleCalculator\SimpleCalculator\bin\Release\en\SimpleCalculator.resources.dll
+D:\Documents\source\repos\SimpleCalculator\SimpleCalculator\bin\Release\Bunifu_UI_v1.52.dll
+D:\Documents\source\repos\SimpleCalculator\SimpleCalculator\obj\Release\SimpleCalculator.csprojAssemblyReference.cache
+D:\Documents\source\repos\SimpleCalculator\SimpleCalculator\obj\Release\SimpleCalculator.Form1.resources
+D:\Documents\source\repos\SimpleCalculator\SimpleCalculator\obj\Release\SimpleCalculator.Properties.Resources.resources
+D:\Documents\source\repos\SimpleCalculator\SimpleCalculator\obj\Release\SimpleCalculator.Form1.en.resources
+D:\Documents\source\repos\SimpleCalculator\SimpleCalculator\obj\Release\SimpleCalculator.csproj.GenerateResource.cache
+D:\Documents\source\repos\SimpleCalculator\SimpleCalculator\obj\Release\SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\Documents\source\repos\SimpleCalculator\SimpleCalculator\obj\Release\en\SimpleCalculator.resources.dll
+D:\Documents\source\repos\SimpleCalculator\SimpleCalculator\obj\Release\SimpleCalculator.csproj.CopyComplete
+D:\Documents\source\repos\SimpleCalculator\SimpleCalculator\obj\Release\SimpleCalculator.exe
+D:\Documents\source\repos\SimpleCalculator\SimpleCalculator\obj\Release\SimpleCalculator.pdb
